@@ -1,19 +1,19 @@
-
+main{
+    background: white !important;
+}
 .container {
     width: 50%;
     position: fixed;
     left: 50%;
     top: 80%;
     transform: translate(-50%, -50%);
-  text-align: center;
+    text-align: center;
 
 
 }
 
 a {
     display: block;
-
-
     padding: 0.3rem 1.5rem;
     font-family: sans-serif;
     font-size: 1.5rem;
