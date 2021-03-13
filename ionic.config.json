@@ -1,0 +1,7 @@
+{
+  "name": "OpenCapsule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
